@@ -1,14 +1,16 @@
 #  The contact options.
 
-- type: github
+- type: "github"
   icon: "fab fa-github"
+  url: "https://github.com/Yusuf-0311"
 
-- type: twitter
+- type: "twitter"
   icon: "fa-brands fa-x-twitter"
+"url": "https://x.com/yusuf_0311"
 
-- type: email
+- type: "email"
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+ "url": "mailto:yusufbykl47@gmail.com"
 
 - type: rss
   icon: "fas fa-rss"
