@@ -4,10 +4,6 @@
   icon: "fab fa-github"
   url: "https://github.com/Yusuf-0311"
 
-- type: "twitter"
-  icon: "fa-brands fa-x-twitter"
-   url: "https://x.com/yusuf_0311"
-
 - type: "email"
   icon: "fas fa-envelope"
  "url": "mailto:yusufbykl47@gmail.com"
